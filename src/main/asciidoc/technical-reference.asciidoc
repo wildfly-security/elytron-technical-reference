@@ -1,0 +1,12 @@
+Elytron Technical Reference Manual
+==================================
+:Author: Darran Lofthouse 
+:Email: <darran.lofthouse@jboss.com>
+:Revision: 1.0.0.Alpha1
+
+== Introduction
+
+The Elytron project is a new project developed for WildFly to provide a new set of APIs and SPIs to support more advanced security solutions within an application server environment.  Although the project was developed for WildFly it is in itself a stand alone library that can be re-used on other server environments.  This manual is a technical reference looking at the details of these APIs and SPIs.
+
+
+
